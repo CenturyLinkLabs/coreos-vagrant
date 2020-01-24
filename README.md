@@ -3,6 +3,10 @@
 This repo provides a template Vagrantfile to create a CoreOS virtual machine using the Virtualbox software hypervisor.
 After setup is complete you will have a single CoreOS virtual machine running on your local machine.
 
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 ## Streamlined setup
 
 1) Install dependencies
